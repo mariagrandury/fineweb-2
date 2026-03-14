@@ -1,0 +1,98 @@
+{
+  "Germanic": [
+    "German",
+    "Dutch",
+    "Swedish",
+    "Norwegian Bokmål",
+    "Danish",
+    "Afrikaans",
+    "Norwegian Nynorsk",
+    "Icelandic",
+    "Luxembourgish",
+    "Western Frisian",
+    "Faroese",
+    "Eastern Yiddish",
+    "Middle High German (ca. 1050-1500)",
+    "Scots"
+  ],
+  "Romance": [
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Catalan",
+    "Galician",
+    "Latin",
+    "Occitan",
+    "Aromanian",
+    "Asturian",
+    "Friulian"
+  ],
+  "Slavic": [
+    "Russian",
+    "Polish",
+    "Czech",
+    "Ukrainian",
+    "Bulgarian",
+    "Slovak",
+    "Bosnian",
+    "Slovenian",
+    "Croatian",
+    "Serbian (Cyrl)",
+    "Serbian (Latn)",
+    "Belarusian",
+    "Macedonian"
+  ],
+  "Indo-Iranian": [
+    "Persian",
+    "Hindi",
+    "Bengali",
+    "Urdu",
+    "Panjabi",
+    "Gujarati",
+    "Marathi",
+    "Nepali (individual language)",
+    "Sindhi",
+    "Assamese",
+    "Odia",
+    "Tajik",
+    "Sinhala",
+    "Central Kurdish",
+    "Northern Kurdish",
+    "Southern Pashto",
+    "Northern Pashto",
+    "Fiji Hindi",
+    "Maithili",
+    "Awadhi",
+    "Bhojpuri",
+    "Dogri",
+    "Kashmiri",
+    "Baluchi",
+    "Mazanderani",
+    "Gilaki"
+  ],
+  "Baltic": [
+    "Lithuanian",
+    "Standard Latvian"
+  ],
+  "Hellenic": [
+    "Modern Greek (1453-)",
+    "Ancient Greek (to 1453)"
+  ],
+  "Albanian": [
+    "Tosk Albanian",
+    "Gheg Albanian"
+  ],
+  "Celtic": [
+    "Welsh",
+    "Irish",
+    "Scottish Gaelic",
+    "Breton",
+    "Manx"
+  ],
+  "Armenian": [
+    "Armenian",
+    "Western Armenian"
+  ]
+}
